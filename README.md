@@ -9,7 +9,7 @@ Rewritten With Framework
 > [!CAUTION]
 > Do not put personal files under the folders in the private server directory `files` - all files within these sub-folders will be accessible by anyone with your server address! <br>
 > Stability Still Not Recommended To be production use and Full On Hosting <br>
-> Your own Risk is Applied On Using It
+> Your own Risk is Applied Uppon Using It
 > 
 
 > [!IMPORTANT]
